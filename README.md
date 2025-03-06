@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Srinivasan Sridhar!
 
-<!--
-**SRI-2004/SRI-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm an **AI and Machine Learning enthusiast** with a deep interest in **Reinforcement Learning (RL), Generative AI, and Multi-Agent Systems**. My work spans across **computer vision, natural language processing (NLP), and edge inference**, with a strong focus on **efficiency, interpretability, and scalability**.
 
-Here are some ideas to get you started:
+I'm always looking for **challenging research problems** at the intersection of AI and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Research Interests  
+🔹 **Reinforcement Learning & MARL** – Optimization, hierarchical RL, and multi-agent coordination  
+🔹 **Generative AI (CV & NLP)** – Vision-Language Models (VLMs), GANs, and diffusion models  
+🔹 **Scalable AI Deployments** – Quantization, efficient inference, and edge AI  
+🔹 **Multi-Agent Systems** – Agent-based reasoning, decision-making, and strategic planning  
+
+---
+
+## 🏆 Achievements  
+- **AIR 92** in **Amazon ML Challenge**, working on **Vision-Language Models (Florence, MoE-based models on DinoV2)**  
+- **Winner of Kavach Hackathon** (Govt. of India) – Built an **AI-powered real-time content moderation system**  
+- **1st place in SRMTech CodeFest** – Developed **AuthentiCheck**, an AI-based proctoring system with facial and voice verification  
+- **Finalist at IIT BHU's Dark Patterns Hackathon** – Built a **DistilBERT-based classifier for detecting deceptive UI patterns**  
+- **Worked on robotic pipeline inspection at Sony SSUP**, optimizing **real-time inference for edge devices**  
+
+---
+
+## 📫 Connect with Me  
+💼 **LinkedIn:** [linkedin.com/in/srinivasan-sridhar-0a95951bb/](https://www.linkedin.com/in/srinivasan-sridhar-0a95951bb/)  
+🔍 **Medium:** [medium.com/@ss1160](https://medium.com/@ss1160)  
+🚀 **GitHub:** [github.com/SRI-2004](https://github.com/SRI-2004)  
+
+I’m always open to **collaborations, discussions, and research opportunities**! Feel free to connect or drop me a message. 🚀
