@@ -14,6 +14,16 @@ I'm always looking for **challenging research problems** at the intersection of 
 
 ---
 
+## 💼 Internships  
+
+- **Sony SSUP (Phase 1 & 2)** – Worked on robotic pipeline inspection, developing real-time crack detection models optimized for edge devices (Raspberry Pi 5) with pruning, quantization, and deployment pipelines.  
+
+- **Zocket** – Built a multi-agent system for marketing automation using ELT pipelines (Airbyte,Airflow), graph/vector databases (Neo4j, Pinecone), and hybrid RAG for campaign optimization and recommendations.  
+
+- **IIT Hyderabad (Research Intern)** – Focused on multimodal emotion recognition using EEG, facial features, and cardiovascular signals with graph neural networks and attention-based architectures.  
+
+---
+
 ## 🏆 Achievements  
 - **AIR 92** in **Amazon ML Challenge**, working on **Vision-Language Models (Florence, MoE-based models on DinoV2)**  
 - **Winner of Kavach Hackathon** (Govt. of India) – Built an **AI-powered real-time content moderation system**  
